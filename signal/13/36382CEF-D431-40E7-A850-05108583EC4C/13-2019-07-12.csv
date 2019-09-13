@@ -1,0 +1,5 @@
+id,status,symbol,time,type,trend,price,balance_rate
+12300001,pendding,601939.XSHG,2019-07-12 09:30:00,buy,long,7.17,0.10
+12300001,pendding,601166.XSHG,2019-07-12 09:30:00,buy,long,18.18,0.10
+12300001,pendding,600276.XSHG,2019-07-12 09:30:00,sell,long,66.45,0.00
+12300001,pendding,000001.XSHE,2019-07-12 09:30:00,buy,long,14.12,0.10
