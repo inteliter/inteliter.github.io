@@ -1,5 +1,5 @@
 id,status,symbol,time,type,trend,price,balance_rate,try_count
 12300001,pendding,600519.XSHG,2013-06-06 09:30:00,buy,long,201.41,0.10,1
-12300001,pendding,601988.XSHG,2013-06-06 09:30:00,sell,long,2.94,0.00
-12300001,pendding,600900.XSHG,2013-06-06 09:30:00,sell,long,7.51,0.00
-12300001,pendding,600887.XSHG,2013-06-06 09:30:00,buy,long,28.59,0.10
+12300001,pendding,601988.XSHG,2013-06-06 09:30:00,sell,long,2.94,0.00,1
+12300001,pendding,600900.XSHG,2013-06-06 09:30:00,sell,long,7.51,0.00,1
+12300001,pendding,600887.XSHG,2013-06-06 09:30:00,buy,long,28.59,0.10,1

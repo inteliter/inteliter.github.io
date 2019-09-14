@@ -1,4 +1,4 @@
 id,status,symbol,time,type,trend,price,balance_rate,try_count
 12300001,pendding,600036.XSHG,2018-09-04 09:30:00,sell,long,28.39,0.00,1
-12300001,pendding,600104.XSHG,2018-09-04 09:30:00,buy,long,29.05,0.10
-12300001,pendding,601998.XSHG,2018-09-04 09:30:00,buy,long,6.01,0.10
+12300001,pendding,600104.XSHG,2018-09-04 09:30:00,buy,long,29.05,0.10,1
+12300001,pendding,601998.XSHG,2018-09-04 09:30:00,buy,long,6.01,0.10,1

@@ -1,4 +1,4 @@
 id,status,symbol,time,type,trend,price,balance_rate,try_count
 12300001,pendding,000333.XSHE,2018-03-20 09:30:00,sell,long,59.45,0.00,1
-12300001,pendding,000651.XSHE,2018-03-20 09:30:00,sell,long,52.56,0.00
-12300001,pendding,600585.XSHG,2018-03-20 09:30:00,sell,long,32.99,0.00
+12300001,pendding,000651.XSHE,2018-03-20 09:30:00,sell,long,52.56,0.00,1
+12300001,pendding,600585.XSHG,2018-03-20 09:30:00,sell,long,32.99,0.00,1

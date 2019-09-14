@@ -1,4 +1,4 @@
 id,status,symbol,time,type,trend,price,balance_rate,try_count
 12300001,pendding,600276.XSHG,2012-05-21 09:30:00,sell,long,27.95,0.00,1
-12300001,pendding,002304.XSHE,2012-05-21 09:30:00,buy,long,162.53,0.10
-12300001,pendding,601390.XSHG,2012-05-21 09:30:00,buy,long,2.64,0.10
+12300001,pendding,002304.XSHE,2012-05-21 09:30:00,buy,long,162.53,0.10,1
+12300001,pendding,601390.XSHG,2012-05-21 09:30:00,buy,long,2.64,0.10,1

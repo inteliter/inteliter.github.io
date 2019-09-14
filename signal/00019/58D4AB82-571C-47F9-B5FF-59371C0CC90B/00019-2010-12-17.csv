@@ -1,5 +1,5 @@
 id,status,symbol,time,type,trend,price,balance_rate,try_count
 12300001,pendding,600036.XSHG,2010-12-17 09:30:00,sell,long,13.14,0.00,1
-12300001,pendding,601166.XSHG,2010-12-17 09:30:00,buy,long,24.35,0.10
-12300001,pendding,000002.XSHE,2010-12-17 09:30:00,buy,long,8.41,0.10
-12300001,pendding,600016.XSHG,2010-12-17 09:30:00,buy,long,5.08,0.10
+12300001,pendding,601166.XSHG,2010-12-17 09:30:00,buy,long,24.35,0.10,1
+12300001,pendding,000002.XSHE,2010-12-17 09:30:00,buy,long,8.41,0.10,1
+12300001,pendding,600016.XSHG,2010-12-17 09:30:00,buy,long,5.08,0.10,1

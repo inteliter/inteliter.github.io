@@ -1,5 +1,5 @@
 id,status,symbol,time,type,trend,price,balance_rate,try_count
 12300001,pendding,600519.XSHG,2015-04-24 09:30:00,sell,long,257.26,0.00,1
-12300001,pendding,000858.XSHE,2015-04-24 09:30:00,sell,long,27.35,0.00
-12300001,pendding,600900.XSHG,2015-04-24 09:30:00,sell,long,12.78,0.00
-12300001,pendding,000333.XSHE,2015-04-24 09:30:00,sell,long,36.37,0.00
+12300001,pendding,000858.XSHE,2015-04-24 09:30:00,sell,long,27.35,0.00,1
+12300001,pendding,600900.XSHG,2015-04-24 09:30:00,sell,long,12.78,0.00,1
+12300001,pendding,000333.XSHE,2015-04-24 09:30:00,sell,long,36.37,0.00,1

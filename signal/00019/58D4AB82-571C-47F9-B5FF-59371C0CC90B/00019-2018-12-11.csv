@@ -1,6 +1,6 @@
 id,status,symbol,time,type,trend,price,balance_rate,try_count
 12300001,pendding,601398.XSHG,2018-12-11 09:30:00,sell,long,5.33,0.00,1
-12300001,pendding,601166.XSHG,2018-12-11 09:30:00,sell,long,15.86,0.00
-12300001,pendding,600000.XSHG,2018-12-11 09:30:00,sell,long,10.78,0.00
-12300001,pendding,000002.XSHE,2018-12-11 09:30:00,buy,long,25.48,0.10
-12300001,pendding,601668.XSHG,2018-12-11 09:30:00,sell,long,5.90,0.00
+12300001,pendding,601166.XSHG,2018-12-11 09:30:00,sell,long,15.86,0.00,1
+12300001,pendding,600000.XSHG,2018-12-11 09:30:00,sell,long,10.78,0.00,1
+12300001,pendding,000002.XSHE,2018-12-11 09:30:00,buy,long,25.48,0.10,1
+12300001,pendding,601668.XSHG,2018-12-11 09:30:00,sell,long,5.90,0.00,1
