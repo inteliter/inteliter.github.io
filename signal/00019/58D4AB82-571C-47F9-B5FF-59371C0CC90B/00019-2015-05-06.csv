@@ -1,0 +1,6 @@
+id,status,symbol,time,type,trend,price,balance_rate,try_count
+12300001,pendding,601318.XSHG,2015-05-06 09:30:00,sell,long,87.36,0.00,1
+12300001,pendding,600900.XSHG,2015-05-06 09:30:00,sell,long,12.63,0.00
+12300001,pendding,600016.XSHG,2015-05-06 09:30:00,sell,long,10.71,0.00
+12300001,pendding,601668.XSHG,2015-05-06 09:30:00,sell,long,10.64,0.00
+12300001,pendding,600019.XSHG,2015-05-06 09:30:00,sell,long,8.91,0.00

@@ -1,0 +1,7 @@
+id,status,symbol,time,type,trend,price,balance_rate,try_count
+12300001,pendding,601288.XSHG,2017-03-23 09:30:00,sell,long,3.24,0.00,1
+12300001,pendding,601988.XSHG,2017-03-23 09:30:00,sell,long,3.60,0.00
+12300001,pendding,601088.XSHG,2017-03-23 09:30:00,buy,long,19.41,0.10
+12300001,pendding,000333.XSHE,2017-03-23 09:30:00,buy,long,34.55,0.10
+12300001,pendding,603288.XSHG,2017-03-23 09:30:00,buy,long,33.34,0.10
+12300001,pendding,601766.XSHG,2017-03-23 09:30:00,buy,long,10.25,0.10

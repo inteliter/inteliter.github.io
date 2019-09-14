@@ -1,0 +1,10 @@
+id,status,symbol,time,type,trend,price,balance_rate,try_count
+12300001,pendding,601939.XSHG,2019-06-26 09:30:00,sell,long,7.36,0.00,1
+12300001,pendding,600028.XSHG,2019-06-26 09:30:00,buy,long,5.42,0.10
+12300001,pendding,601328.XSHG,2019-06-26 09:30:00,sell,long,6.09,0.00
+12300001,pendding,000858.XSHE,2019-06-26 09:30:00,buy,long,114.36,0.10
+12300001,pendding,000333.XSHE,2019-06-26 09:30:00,sell,long,51.47,0.00
+12300001,pendding,000651.XSHE,2019-06-26 09:30:00,buy,long,54.28,0.10
+12300001,pendding,601601.XSHG,2019-06-26 09:30:00,sell,long,36.20,0.00
+12300001,pendding,600104.XSHG,2019-06-26 09:30:00,buy,long,25.44,0.10
+12300001,pendding,600276.XSHG,2019-06-26 09:30:00,buy,long,66.27,0.10

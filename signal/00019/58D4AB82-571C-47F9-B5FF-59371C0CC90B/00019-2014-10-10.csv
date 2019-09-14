@@ -1,0 +1,9 @@
+id,status,symbol,time,type,trend,price,balance_rate,try_count
+12300001,pendding,601288.XSHG,2014-10-10 09:30:00,buy,long,2.49,0.10,1
+12300001,pendding,600900.XSHG,2014-10-10 09:30:00,sell,long,7.71,0.00
+12300001,pendding,601088.XSHG,2014-10-10 09:30:00,buy,long,15.40,0.10
+12300001,pendding,601299.XSHG,2014-10-10 09:30:00,buy,long,5.33,0.10
+12300001,pendding,600104.XSHG,2014-10-10 09:30:00,sell,long,17.84,0.00
+12300001,pendding,601998.XSHG,2014-10-10 09:30:00,buy,long,4.57,0.10
+12300001,pendding,603288.XSHG,2014-10-10 09:30:00,sell,long,36.88,0.00
+12300001,pendding,601668.XSHG,2014-10-10 09:30:00,buy,long,3.50,0.10

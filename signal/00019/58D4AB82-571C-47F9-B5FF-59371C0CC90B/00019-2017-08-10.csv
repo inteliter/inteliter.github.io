@@ -1,0 +1,4 @@
+id,status,symbol,time,type,trend,price,balance_rate,try_count
+12300001,pendding,601398.XSHG,2017-08-10 09:30:00,sell,long,5.53,0.00,1
+12300001,pendding,601939.XSHG,2017-08-10 09:30:00,sell,long,6.68,0.00
+12300001,pendding,601988.XSHG,2017-08-10 09:30:00,sell,long,3.98,0.00

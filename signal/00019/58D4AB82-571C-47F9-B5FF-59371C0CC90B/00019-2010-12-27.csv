@@ -1,0 +1,4 @@
+id,status,symbol,time,type,trend,price,balance_rate,try_count
+12300001,pendding,600000.XSHG,2010-12-27 09:30:00,buy,long,12.62,0.10,1
+12300001,pendding,000002.XSHE,2010-12-27 09:30:00,sell,long,8.88,0.00
+12300001,pendding,601668.XSHG,2010-12-27 09:30:00,sell,long,3.50,0.00

@@ -1,0 +1,6 @@
+id,status,symbol,time,type,trend,price,balance_rate,try_count
+12300001,pendding,600519.XSHG,2012-05-10 09:30:00,sell,long,229.26,0.00,1
+12300001,pendding,600036.XSHG,2012-05-10 09:30:00,sell,long,12.11,0.00
+12300001,pendding,601088.XSHG,2012-05-10 09:30:00,sell,long,26.94,0.00
+12300001,pendding,000002.XSHE,2012-05-10 09:30:00,sell,long,8.93,0.00
+12300001,pendding,601998.XSHG,2012-05-10 09:30:00,sell,long,4.50,0.00

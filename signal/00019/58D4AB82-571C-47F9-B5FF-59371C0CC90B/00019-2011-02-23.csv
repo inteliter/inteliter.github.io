@@ -1,0 +1,11 @@
+id,status,symbol,time,type,trend,price,balance_rate,try_count
+12300001,pendding,601857.XSHG,2011-02-23 09:30:00,sell,long,11.52,0.00,1
+12300001,pendding,601988.XSHG,2011-02-23 09:30:00,sell,long,3.24,0.00
+12300001,pendding,000858.XSHE,2011-02-23 09:30:00,sell,long,33.20,0.00
+12300001,pendding,601088.XSHG,2011-02-23 09:30:00,buy,long,25.08,0.10
+12300001,pendding,000651.XSHE,2011-02-23 09:30:00,buy,long,19.45,0.10
+12300001,pendding,600276.XSHG,2011-02-23 09:30:00,buy,long,51.67,0.10
+12300001,pendding,600016.XSHG,2011-02-23 09:30:00,buy,long,5.10,0.10
+12300001,pendding,002415.XSHE,2011-02-23 09:30:00,buy,long,83.48,0.10
+12300001,pendding,002304.XSHE,2011-02-23 09:30:00,buy,long,222.48,0.10
+12300001,pendding,601888.XSHG,2011-02-23 09:30:00,buy,long,28.70,0.10
