@@ -1,0 +1,4 @@
+id,status,symbol,time,type,trend,price,balance_rate,try_count
+123653,done,002415.XSHE,2013-06-03 09:30:00,sell,long,7.47,0.00,1
+123653,done,600018.XSHG,2013-06-03 09:30:00,sell,long,2.34,0.00,1
+123653,done,601166.XSHG,2013-06-03 09:30:00,sell,long,9.37,0.00,1
