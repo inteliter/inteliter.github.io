@@ -1,0 +1,6 @@
+id,status,symbol,time,type,trend,price,balance_rate,try_count
+123653,done,600519.XSHG,2009-09-24 09:31:00,sell,long,164.99,0.00,1
+123653,done,601318.XSHG,2009-09-24 09:31:00,sell,long,49.20,0.00,1
+123653,done,601318.XSHG,2009-09-24 10:13:00,buy,long,50.66,0.10,1
+123653,done,601318.XSHG,2009-09-24 11:38:00,sell,long,48.90,0.00,1
+123653,done,601318.XSHG,2009-09-24 12:05:00,buy,long,50.40,0.10,1
