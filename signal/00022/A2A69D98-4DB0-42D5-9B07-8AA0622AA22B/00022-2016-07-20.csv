@@ -1,0 +1,4 @@
+id,status,symbol,time,type,trend,price,balance_rate,try_count
+123653,done,600887.XSHG,2016-07-20 09:57:00,buy,long,17.84,0.10,1
+123653,done,600016.XSHG,2016-07-20 10:57:00,sell,long,9.35,0.00,1
+123653,done,600104.XSHG,2016-07-20 10:58:00,buy,long,21.76,0.10,1

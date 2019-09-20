@@ -1,0 +1,3 @@
+id,status,symbol,time,type,trend,price,balance_rate,try_count
+123653,done,600028.XSHG,2014-03-26 09:59:00,sell,long,5.17,0.00,1
+123653,done,600519.XSHG,2014-03-26 13:27:00,sell,long,158.55,0.00,1

@@ -1,0 +1,6 @@
+id,status,symbol,time,type,trend,price,balance_rate,try_count
+123653,done,600519.XSHG,2019-05-23 09:57:00,sell,long,873.66,0.00,1
+123653,done,600585.XSHG,2019-05-23 09:57:00,sell,long,39.02,0.00,1
+123653,done,600050.XSHG,2019-05-23 09:59:00,sell,long,5.86,0.00,1
+123653,done,601288.XSHG,2019-05-23 10:57:00,buy,long,3.68,0.10,1
+123653,done,600000.XSHG,2019-05-23 10:58:00,buy,long,11.09,0.10,1

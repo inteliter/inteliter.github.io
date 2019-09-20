@@ -1,0 +1,7 @@
+id,status,symbol,time,type,trend,price,balance_rate,try_count
+123653,done,600276.XSHG,2012-08-13 09:57:00,sell,long,30.58,0.00,1
+123653,done,600276.XSHG,2012-08-13 10:57:00,buy,long,30.67,0.10,1
+123653,done,601318.XSHG,2012-08-13 10:57:00,sell,long,44.00,0.00,1
+123653,done,601628.XSHG,2012-08-13 13:27:00,sell,long,17.96,0.00,1
+123653,done,600276.XSHG,2012-08-13 13:29:00,sell,long,30.70,0.00,1
+123653,done,600276.XSHG,2012-08-13 14:27:00,buy,long,30.78,0.10,1
