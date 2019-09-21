@@ -1,6 +1,0 @@
-id,status,symbol,time,type,trend,price,balance_rate,try_count
-123653,done,600104.XSHG,2011-05-25 09:57:00,buy,long,16.19,0.10,1
-123653,done,600000.XSHG,2011-05-25 09:57:00,sell,long,13.82,0.00,1
-123653,done,600104.XSHG,2011-05-25 14:27:00,sell,long,16.10,0.00,1
-123653,done,600016.XSHG,2011-05-25 14:28:00,buy,long,5.82,0.10,1
-123653,done,600585.XSHG,2011-05-25 14:29:00,sell,long,34.28,0.00,1

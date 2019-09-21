@@ -1,8 +1,0 @@
-id,status,symbol,time,type,trend,price,balance_rate,try_count
-123653,done,601818.XSHG,2019-01-04 09:57:00,buy,long,3.78,0.10,1
-123653,done,601066.XSHG,2019-01-04 09:57:00,sell,long,9.49,0.00,1
-123653,done,601328.XSHG,2019-01-04 10:57:00,buy,long,5.86,0.10,1
-123653,done,601766.XSHG,2019-01-04 10:57:00,sell,long,9.03,0.00,1
-123653,done,601066.XSHG,2019-01-04 10:57:00,buy,long,9.73,0.10,1
-123653,done,601668.XSHG,2019-01-04 10:57:00,buy,long,5.68,0.10,1
-123653,done,601766.XSHG,2019-01-04 13:27:00,buy,long,9.11,0.10,1
