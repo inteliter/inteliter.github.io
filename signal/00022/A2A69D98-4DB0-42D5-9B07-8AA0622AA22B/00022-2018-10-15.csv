@@ -1,0 +1,5 @@
+id,status,symbol,time,type,trend,price,balance_rate,try_count
+123653,done,601766.XSHG,2018-10-15 09:31:00,buy,long,8.12,0.10,1
+123653,done,300498.XSHE,2018-10-15 09:31:00,sell,long,23.83,0.00,1
+123653,done,600000.XSHG,2018-10-15 09:31:00,buy,long,9.82,0.10,1
+123653,done,601166.XSHG,2018-10-15 09:31:00,buy,long,14.79,0.10,1

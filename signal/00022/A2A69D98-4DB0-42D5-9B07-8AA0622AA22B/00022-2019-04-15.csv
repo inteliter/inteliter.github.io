@@ -1,0 +1,5 @@
+id,status,symbol,time,type,trend,price,balance_rate,try_count
+123653,done,601138.XSHG,2019-04-15 09:31:00,sell,long,15.81,0.00,1
+123653,done,300760.XSHE,2019-04-15 09:31:00,sell,long,129.12,0.00,1
+123653,done,000333.XSHE,2019-04-15 09:31:00,sell,long,50.78,0.00,1
+123653,done,601888.XSHG,2019-04-15 09:31:00,sell,long,72.83,0.00,1

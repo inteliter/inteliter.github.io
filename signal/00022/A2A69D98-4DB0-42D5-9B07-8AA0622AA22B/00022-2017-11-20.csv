@@ -1,0 +1,7 @@
+id,status,symbol,time,type,trend,price,balance_rate,try_count
+123653,done,000333.XSHE,2017-11-20 09:31:00,buy,long,50.72,0.10,1
+123653,done,603288.XSHG,2017-11-20 09:31:00,sell,long,50.40,0.00,1
+123653,done,000858.XSHE,2017-11-20 09:32:00,sell,long,69.75,0.00,1
+123653,done,600018.XSHG,2017-11-20 09:32:00,buy,long,7.61,0.10,1
+123653,done,600276.XSHG,2017-11-20 09:32:00,sell,long,42.43,0.00,1
+123653,done,600036.XSHG,2017-11-20 09:33:00,buy,long,27.95,0.10,1
